@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#head{
+    text-align: center;
+    box-sizing: border-box;
+    max-height: 130px;
+    background-color: purple;
+}
+#head h1{
+    padding: 50px;
+    font-size: 40px;
+}
+#head img{
+    width: 250px;
+    float: right;
+    padding: 10px 0px 0px 10px;
+}
+nav{
+    height: 100px;
+    background-color:blue;
+    box-shadow: 0 10px 15px rgba(0,0,0,0,1);
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    float:left;
+    margin-right: 200px;
+    background-color: blue;
+}
+nav ul li{
+    background: black;
+    position: relative;
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    display: block;
+    padding: 0 10px;
+    color: white;
+    text-decoration: none;
+    line-height: 60px;
+    font-size: 20px;
+    position: relative;
+}
+nav ul li a:hover{
+    background: red;
+}
+b{
+    font-size: xx-large;
+    align-items: center;
+}
+p{
+    background-color: blue;
+    position: static;
+}
+b{
+    position: relative;
+}
+
+
+
+
+

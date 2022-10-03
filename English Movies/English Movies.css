@@ -1,0 +1,22 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+h1{
+   padding: 30;
+   background-color: blue;
+   position: relative;
+}
+div{
+   background-color: blue;
+   position: relative;
+}
+nav{
+   background-color: blue;
+   position: relative;
+}
+header{
+   float: right;
+   bottom: 80;
+   position: relative;
+}
