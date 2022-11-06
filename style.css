@@ -11,16 +11,19 @@
 #head h1{
     padding: 50px;
     font-size: 40px;
+    possition: relative;
 }
 #head img{
     width: 250px;
     float: right;
     padding: 10px 0px 0px 10px;
+    possition: relative;
 }
 nav{
     height: 100px;
     background-color:blue;
     box-shadow: 0 10px 15px rgba(0,0,0,0,1);
+    possition: relative;
 }
 nav ul{
     padding: 0;
@@ -28,6 +31,7 @@ nav ul{
     float:left;
     margin-right: 200px;
     background-color: blue;
+    possition: relative;
 }
 nav ul li{
     background: black;
