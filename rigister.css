@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+div{
+    background-color: blue;
+    height: 657px;
+    position: relative;
+}
+b{
+    padding: 30px;
+}
+h2{
+    padding: 100px;
+}
+img{
+    padding: 30px;
+    position: relative;
+    float: right;
+}
+nav{
+    float: left;
+    bottom: 80px;
+}
